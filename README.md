@@ -1,4 +1,4 @@
-#Financial Transactions Analysis (SQL)
+# Financial Transactions Analysis (SQL)
 
 SQL project to analyze financial data and extract business insights like revenue trends, client performance, and growth.
 
